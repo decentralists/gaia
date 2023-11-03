@@ -189,7 +189,7 @@ replace (
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
 	// Comet
-	github.com/tendermint/tendermint => github.com/decentralists/cometbft v0.34.29
+	github.com/tendermint/tendermint => github.com/decentralists/cometbft v0.34.30-0.20231105005856-ab85a95de621
 
 	// latest grpc doesn't work with with our modified proto compiler, so we need to enforce
 	// the following version across all dependencies.

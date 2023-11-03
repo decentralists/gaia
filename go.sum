@@ -274,8 +274,8 @@ github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495/go.mod h1:J7Y8YcW2
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/decentralists/cometbft v0.34.29 h1:U3RYQKPr/TEeTu/Kn+9+nVkfD5UXKc+pdAko3TpDtXU=
-github.com/decentralists/cometbft v0.34.29/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
+github.com/decentralists/cometbft v0.34.30-0.20231105005856-ab85a95de621 h1:BdxGocncRLok3Bf5mbODMgOSezykEQpi1hGI/AO3Mrc=
+github.com/decentralists/cometbft v0.34.30-0.20231105005856-ab85a95de621/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
 github.com/decentralists/cosmos-sdk v0.45.16-ics-lsm h1:37q/nf7/ASasoGj2t+titVTENvGkXWrfdKBYJX4HxU0=
 github.com/decentralists/cosmos-sdk v0.45.16-ics-lsm/go.mod h1:bScuNwWAP0TZJpUf+SHXRU3xGoUPp+X9nAzfeIXts40=
 github.com/deckarep/golang-set v1.8.0/go.mod h1:5nI87KwE7wgsBU1F4GKAw2Qod7p5kyS383rP6+o6qqo=
